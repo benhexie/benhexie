@@ -19,30 +19,32 @@ Founder & Lead Engineer at [Skrima](https://skrima.com). Most recently I spent a
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://videoinvoice.app"><img src="https://videoinvoice.app/og-image.png" width="100%" alt="VideoInvoice" /></a>
+<a href="https://videoinvoice.app"><img src="https://github.com/user-attachments/assets/f00f18f3-07a5-45e3-ae39-ef82f90388b0" width="100%" alt="VideoInvoice" /></a>
 <h4><a href="https://videoinvoice.app">VideoInvoice</a></h4>
-Turns a short video of a job into a ready-to-send invoice.<br />
+Point your camera at a job site and get a professional invoice in seconds.<br />
 <sub>React Native · AI · <a href="https://play.google.com/store/apps/details?id=com.videoinvoice.app">Google Play</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://flashcv.app"><img src="https://flashcv.app/opengraph-image" width="100%" alt="FlashCV" /></a>
+<a href="https://flashcv.app"><img src="https://github.com/user-attachments/assets/22bce95f-4cca-43c2-bba5-341006622c25" width="100%" alt="FlashCV" /></a>
 <h4><a href="https://flashcv.app">FlashCV</a></h4>
-AI CV builder for web and Android.<br />
+AI CV builder with templates, cover letters and interview prep.<br />
 <sub>React Native · React · Redux · Node.js · <a href="https://play.google.com/store/apps/details?id=com.flashcv.app">Google Play</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p align="center"><a href="https://agreevet.com"><img src="https://agreevet.com/images/1_Dashboard.png" height="210" alt="AgreeVet" /></a></p>
+<a href="https://agreevet.com"><img src="https://github.com/user-attachments/assets/fde589b8-b9e7-4740-85d9-35e755c16c68" width="100%" alt="AgreeVet" /></a>
 <h4><a href="https://agreevet.com">AgreeVet</a></h4>
-AI contract analysis that extracts key terms and flags risks.<br />
+AI contract review for veterinarians: key terms, salary benchmarks and red flags.<br />
 <sub>React Native · Python · REST API · <a href="https://play.google.com/store/apps/details?id=com.benhexie.agreevet">Google Play</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/benhexie/udunu"><img src="https://opengraph.githubassets.com/1/benhexie/udunu" width="100%" alt="Udunu" /></a>
-<h4><a href="https://github.com/benhexie/udunu">Udunu</a></h4>
-Open-source visual website builder, a self-hosted Webflow alternative.<br />
-<sub>Rust · Tauri · TypeScript</sub>
+<img src="https://github.com/user-attachments/assets/dc133115-4739-43dc-b98e-e05829f2ba88" width="100%" alt="BecomeX" />
+<h4>BecomeX</h4>
+Turns discipline into a game: daily missions, XP and real streaks, built around the archetype you pick.<br />
+<sub>Mobile app · Coming soon to Google Play</sub>
 </td>
 </tr>
 </table>
+
+**Open source:** [Udunu](https://github.com/benhexie/udunu), a visual website builder and self-hosted Webflow alternative (Rust, Tauri, TypeScript)
