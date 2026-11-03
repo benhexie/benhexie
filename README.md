@@ -33,9 +33,9 @@ AI CV builder with templates, cover letters and interview prep.<br />
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://agreevet.com"><img src="https://github.com/user-attachments/assets/fde589b8-b9e7-4740-85d9-35e755c16c68" width="100%" alt="AgreeVet" /></a>
+<a href="https://agreevet.com"><img src="https://github.com/user-attachments/assets/a5a3e8d7-7781-449a-a12c-3177c0bf07bf" width="100%" alt="AgreeVet" /></a>
 <h4><a href="https://agreevet.com">AgreeVet</a></h4>
-AI contract review for veterinarians: key terms, salary benchmarks and red flags.<br />
+Upload any contract and AI highlights the key terms, risks and red flags.<br />
 <sub>React Native · Python · REST API · <a href="https://play.google.com/store/apps/details?id=com.benhexie.agreevet">Google Play</a></sub>
 </td>
 <td width="50%" valign="top">
