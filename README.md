@@ -39,10 +39,10 @@ Upload any contract and AI highlights the key terms, risks and red flags.<br />
 <sub>React Native · Python · REST API · <a href="https://play.google.com/store/apps/details?id=com.benhexie.agreevet">Google Play</a></sub>
 </td>
 <td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/dc133115-4739-43dc-b98e-e05829f2ba88" width="100%" alt="BecomeX" />
-<h4>BecomeX</h4>
+<a href="https://becomex.app"><img src="https://github.com/user-attachments/assets/dc133115-4739-43dc-b98e-e05829f2ba88" width="100%" alt="BecomeX" /></a>
+<h4><a href="https://becomex.app">BecomeX</a></h4>
 Turns discipline into a game: daily missions, XP and real streaks, built around the archetype you pick.<br />
-<sub>Mobile app · Coming soon to Google Play</sub>
+<sub>React Native · Firebase · <a href="https://play.google.com/store/apps/details?id=com.becomex.app">Google Play</a></sub>
 </td>
 </tr>
 </table>
